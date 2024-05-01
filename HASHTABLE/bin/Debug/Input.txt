@@ -1,0 +1,276 @@
+323626	ag
+sad	 buồn
+fat	béo
+gay	bede
+fit	vừa vặn
+shy	bẽn lẽn, thẹn thùng
+bald	hói
+data	dữ liệu
+calm	 điềm tĩnh
+pale	xanh xao, nhợt nhạt
+dark	da đen
+keen	 ham thích, tha thiết
+dyed	tóc nhuộm
+lank	tóc thẳng và rủ xuống
+neat	tóc chải chuốc cẩn thận
+scar	sẹo
+tape	ghi băng, băng
+disk	đĩa
+tall	cao
+mole	 nốt ruồi
+grin	cười nhăn răng
+dull	mắt lờ đờ
+easy	going dễ tính
+thin	gầy
+slim	gầy, mảnh khảnh
+less	ít hơn
+sulk	phiền muộn
+user	người dùng
+hurt	 tổn thương
+wavy	 tóc lượn sóng
+jaded	 chán ngấy
+pout	bĩu môi
+rosy	 hồng hào
+beard	 râu
+bored	 chán
+obese	béo phì
+frail	yếu đuối, mỏng manh
+laugh	cười to
+great	 tuyệt vời
+handy	tháo vát
+hello	chào
+equal	bằng
+tired	 mệt
+smile	cười mỉm
+cruel	độc ác
+tense	căng thẳng
+angry	 tức giận
+happy	hạnh phúc
+moody	 hay có tâm trạng
+scowl	 cau có
+pulse	xung
+cross	 bực mình
+jolly	vui vẻ
+frown	nhăn mặt
+store	lưu trữ
+silly	ngu ngốc
+plump	 tròn trĩnh
+curly	tóc xoăn
+input	vào, nhập vào
+short	thấp, lùn
+upset	 tức giận hoặc không vui
+pasty	xanh xao
+handle	giải quyết, xử lý
+mousy	 màu xám lông chuột
+stout	hơi béo
+device	thiết bị
+witty	dí dỏm
+scared	 sợ hãi
+blonde	 tóc vàng
+ginger	đỏ hoe
+signal	tín hiệu
+amused	vui vẻ
+racism	nạn phân biệt chủng tộc
+gentle	hiền lành
+brainy	thông minh
+school	trường học
+modest	khiêm tốn
+polite	lịch sự
+honest	chân thật
+switch	chuyển
+sallow	 vàng vọt
+memory	bộ nhớ
+strict	nghiêm khắc
+skinny	ốm, gầy
+a fringe	 tóc cắt ngang trán
+stocky	chắc nịch
+untidy	không chải chuốc, rối xù
+cheated	 bị lừa
+ashamed	xấu hổ
+grimace	nhăn nhó
+logical	một cách logic
+disease	bệnh dịch
+frizzy	 tóc uốn thành búp
+output	ra, đưa ra
+relaxed	thư giãn, thoải mái
+address	địa chỉ
+excited	 phấn khích, hứng thú
+suicide	sự tự tử
+greater	lớn hơn
+feature	thuộc tính
+let down	 thất vọng
+slender	mảnh khảnh
+annoyed	bực mình
+selfish	ích kỷ, keo kiệt
+helpful	có ích
+tallish	cao dong dỏng
+circuit	mạch
+numeric	số học, thuộc về số học
+jealous	 ganh tị
+amusing	 vui
+complex	phức tạp
+stammer	nói lắp bắp
+perform	tiến hành, thi hành
+worried	 lo lắng
+process	xử lý
+convert	chuyển đổi
+unhappy	 buồn
+anxious	 lo lắng
+envious	 thèm muốn, đố kỵ
+serious	 nghiêm túc
+furious	giận giữ, điên tiết 
+reliable	có thể tin tưởng
+sociable	hòa đồng
+nervous	 căng thẳng
+appalled	rất sốc
+magnetic	từ
+poverty	 cảnh nghèo khó
+stutter	 nói lắp
+addition	phép cộng
+flashing	mắt sáng
+decision	quyết định
+cheerful	vui vẻ
+ecstatic	vô cùng hạnh phúc
+negative	tiêu cực, bi quan
+sensible	 đa cảm
+tempered	tâm tính tốt
+confused	 lúng túng
+seething	rất tức giận nhưng giấu kín
+terrific	 tuyệt vời
+terrible	 ốm hoặc mệt mỏi
+terminal	máy trạm
+firmware	phần mềm được cứng hóa
+internal	trong, bên trong
+friendly	 thân thiện
+arrogant	 kiêu ngạo
+abortion	 tình trạng nạo phá thai
+oriental	da vàng châu á
+arrogant	kiêu căng
+external	ngoài, bên ngoài
+division	phép chia
+function	hàm, chức năng
+straight	tóc thẳng
+generous	hào phóng, phóng khoáng
+tolerant	dễ thứ tha
+muscular	 nhiều cơ bắp
+outgoing	thích ra ngoài
+stressed	mệt mỏi
+computer	máy tính
+ponytail	cột tóc đuôi ngựa
+transmit	truyền
+positive	lạc quan
+shortish	 hơi lùn
+deep voice	giọng sâu
+delighted	 rất hạnh phúc
+solution	giải pháp, lời giải
+wealth gap	 khoảng cách giàu nghèo
+humorous	 hài hước
+confident	 tự tin
+confident	 tự tin
+horrified	 sợ hãi
+terrified	 rất sợ hãi
+irritable	 dễ cáu kỉnh
+depressed	 rất buồn
+intricate	phức tạp
+magnetize	từ hóa, nhiễm từ
+birthmark	 vết bớt
+talkative	nói nhiều
+malicious	ác độc
+committed	cam kết cao
+emotional	 dễ bị xúc động
+irritated	 khó chịu
+moustache	ria mép
+intrigued	 hiếu kỳ
+sparkling	 mắt lấp lánh
+impatient	thiếu kiên nhẫn
+smuggling	 nạn buôn lậu
+ambitious	tham vọng
+bloodshot	mắt đỏ ngầu
+operation	thao tác
+well-built	hình thể đẹp
+reluctant	 miễn cưỡng
+component	thành phần
+child abuse	 lạm dụng trẻ em
+mechanical	cơ khí, có tính chất cơ khí
+wonderful	tuyệt vời
+overjoyed	cực kỳ hứng thú.
+brain drain	tình trạng chảy máu chất xám
+surprised	ngạc nhiên
+bewildered	 rất bối rối
+terrorism	hiểm họa khủng bố
+frightened	 sợ hãi
+determined	quyết đoán
+capability	khả năng
+unsociable	không hòa đồng
+electronic	điện tử, có liên quan đến máy tính
+dreamy eyes	đôi mắt mộng mơ
+arithmetic	số học
+manipulate	 xử lý
+greasy skin	 da nhờn
+illiteracy	nạn mù chữ
+tax evasion	 trốn thuế
+with plaits	tóc được tết, bện
+overwelmed	choáng ngợp
+frustrated	 tuyệt vọng
+overweight	quá cân
+thoughtful	trầm tư
+thoughtful	chu đáo
+starvation	 nạn đói
+corruption	 nạn tham nhũng
+suspicious	đa nghi, ngờ vực
+suspicious	hay nghi nghờ
+embarrassed	hơi xấu hổ
+demagnetize	khử từ hóa
+imaginative	trí tưởng tượng phong phú
+fundamental	cơ bản
+over the moon	rất sung sướng
+bureaucracy	thói quan liêu
+civil rights	
+human rights	 nhân quyền
+accumulator	tổng
+appropriate	thích hợp
+subtraction	phép trừ
+persecution	 đàn áp, bức hại
+insensitive	 vô tâm
+computerize	tin học hóa
+affectionate	trìu mến
+mathematical	toán học, có tính chất toán học
+inquisitive	 ánh mắt tò mò
+adventurous	mạo hiểm, phiêu lưu
+instruction	chỉ dẫn
+carefreequan	 tâm vô vụ lợi
+cohabitation	sống thử
+disappointed	 thất vọng
+squeaky voice	giọng the thé
+apprehensive	hơi lo lắng
+oliveskinned	da nâu, vàng nhạt
+food security	 an ninh lương thực
+enthusiastic	 nhiệt tình
+homelessness	tình trạng vô gia cư
+minicomputer	máy tính mini
+social welfare	phúc lợi xã hội
+malnutrition	tình trạng suy dinh dưỡng
+of medium built	 hình thể trung bình
+unemployment	nạn/tình trạng thất nghiệp
+teen pregnancy	mang thai vị thành niên
+water shortage	thiếu nước.
+prostitution	nạn mại dâm
+unintelligent	không được thông minh
+microcomputer	máy vi tính
+of  average height	chiều cao trung bình
+organ smuggling	 buôn lậu nội tạng
+extreme weather	thời tiết khắc nghiệt
+multiplication	phép nhân
+exponentiation	lũy thừa, hàm mũ
+microprocessor	bộ vi xử lý
+samesex marriage	 hôn nhân đồng tính
+population aging	 sự già hóa dân số
+organ harvesting	 thu hoạch nội tạng
+human trafficking	nạn buôn người
+domestic violence	 bạo lực gia đình
+social inequality	bất bình đẳng xã hội
+have a sense of humor	có khiếu hài hước
+a shorthaired person	người có mái tóc ngắn
+juvenile delinquency	  tội phạm vị thành niên
+national sovereignty	chủ quyền quốc gia
+wellproportioned figure	cân đối
